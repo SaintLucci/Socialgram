@@ -1,0 +1,107 @@
+.bg1{
+    background: #95999c;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+.txt1{
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+.btn2{
+    background-color: #EF233C;
+    margin-top:30px;
+}
+.marg1{
+    margin-top: 20px;
+}
+.avoid-clicks {
+    pointer-events: none ;
+}
+.rowcolor{
+    padding-top: 20px;
+}
+.padd2{
+    margin-bottom: 20px;
+}
+.card-shadow{
+    box-shadow: 0 40px 80px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+}
+
+.margin1{
+    margin-left: 20px;
+}
+.p_img_container{
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 5px;
+}
+.img_mod{
+    background-repeat:no-repeat;
+    background-size:cover;
+    object-fit: cover;
+    width:76px;
+    height: 76px;
+    padding: 1px;
+}
+.img_prof{
+    background-repeat:no-repeat;
+    background-size:cover;
+    object-fit: cover;
+    width:128px;
+    height: 128px;
+    margin-top:20px ;
+}
+.bg{
+    background: url(../imgs/wallpaper.jpg) no-repeat center top; z-index: -1;
+    background-color: black;
+}
+.thoughts{
+    margin-bottom: 10px;
+}
+ul{
+    padding: 10px;
+}
+.inline{
+    display: inline-block;
+}
+.avanzate{
+    margin-top: -24px;
+ }
+.div-padding{
+    padding: 10px;
+}
+.video-height{
+    height: 342px;
+}
+.bg-card{
+    background-color:#ffffff;
+}
+.jumbo_opacity{
+    background: rgb(94, 94, 148); /* This is for ie8 and below */
+    background: rgba(94, 94, 148, 0.5);
+}
+.big_card_w_opacity{
+    margin:1%;
+    background: rgb(94, 94, 148); /* This is for ie8 and below */
+    background: rgba(94, 94, 148, 0.5);
+}
+.card-comment{
+    background: rgb(94, 94, 148); /* This is for ie8 and below */
+    background: rgba(94, 94, 148, 0.5);
+    margin-top: 2%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+.text-padding{
+    padding-top: 1px;
+}
+.big_card_w_opacity_red{
+    margin:1%;
+    background: rgb(255, 0, 0); /* This is for ie8 and below */
+    background: rgba(255, 0, 0, 0.5);
+}
