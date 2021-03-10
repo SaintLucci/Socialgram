@@ -13,8 +13,8 @@ E-mail  | Psw
 ------------- | -------------
 profilo1@mail.com  | 123456
 
-HTML, PHP, CSS &&
-IDE: JetBrains PhpStorm 2019.2.4 &&
-DB: MySQL &&
+HTML, PHP, CSS //
+IDE: JetBrains PhpStorm 2019.2.4 //
+DB: MySQL //
 Framework: Bootstrap (Only CSS)
 
